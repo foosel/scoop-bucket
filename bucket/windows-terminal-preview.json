@@ -31,7 +31,7 @@
     "shortcuts": [
         [
             "WindowsTerminal.exe",
-            "Windows Terminal"
+            "Windows Terminal Preview"
         ]
     ],
     "checkver": {
