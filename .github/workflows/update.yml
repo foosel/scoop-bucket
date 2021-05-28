@@ -12,4 +12,5 @@ jobs:
       - uses: actions/checkout@master
       - uses: foosel/scoop-checkver-action@main
         with:
+          bucket: bucket
           dry: dry
