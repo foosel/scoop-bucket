@@ -7,7 +7,7 @@
         "vcredist": "extras/vcredist2019"
     },
     "url": "https://github.com/microsoft/terminal/releases/download/v1.9.1445.0/Microsoft.WindowsTerminalPreview_1.9.1445.0_8wekyb3d8bbwe.msixbundle#/dl.7z",
-    "hash": "96FAE089A579D0E701E74B46471FF01BF69C5117D8794175014DAB29D4F656BF",
+    "hash": "96fae089a579d0e701e74b46471ff01bf69c5117d8794175014dab29d4f656bf",
     "architecture": {
         "64bit": {
             "pre_install": "Get-ChildItem \"$dir\" -Exclude '*x64.msix' | Remove-Item -Force -Recurse"
