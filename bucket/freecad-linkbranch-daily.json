@@ -10,11 +10,16 @@
             "hash": "91d196451bbb3752995d3b7b08106ce66cff08b7c99649aaa9e9fbfaa7ae0451"
         }
     },
-    "bin": "bin\\FreeCADCmd.exe",
+    "bin": [
+        [
+            "bin\\FreeCADCmd.exe",
+            "FreeCADCmd_LBD"
+        ]
+    ],
     "shortcuts": [
         [
             "bin\\FreeCADLink.exe",
-            "FreeCAD Linkbranch Stable"
+            "FreeCAD Linkbranch Daily"
         ]
     ],
     "checkver": {

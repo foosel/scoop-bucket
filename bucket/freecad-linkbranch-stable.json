@@ -13,13 +13,13 @@
     "bin": [
         [
             "bin\\FreeCADCmd.exe",
-            "FreeCADCmd_LBD"
+            "FreeCADCmd_LBS"
         ]
     ],
     "shortcuts": [
         [
             "bin\\FreeCADLink.exe",
-            "FreeCAD Linkbranch Daily"
+            "FreeCAD Linkbranch Stable"
         ]
     ],
     "checkver": {
