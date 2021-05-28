@@ -1,0 +1,15 @@
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+name: Update bucket
+jobs:
+  update:
+    name: ♻ Update manifests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: foosel/scoop-checkver-action@main
+        with:
+          dry: dry
