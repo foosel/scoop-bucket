@@ -13,7 +13,6 @@ jobs:
       - uses: foosel/scoop-checkver-action@main
         with:
           bucket: bucket
-          force: force
       - uses: EndBug/add-and-commit@v7
         with:
           message: "Updated manifests..."
