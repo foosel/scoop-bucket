@@ -2,7 +2,7 @@
     "version": "0.1.0",
     "description": "Systray companion for scoop. Polls for updates every 30min and alerts if there are any.",
     "homepage": "https://github.com/foosel/scoop-tray",
-    "license": "GPL-3.0-or-later",
+    "license": "MIT",
     "url": "https://github.com/foosel/scoop-tray/archive/0.1.0.zip",
     "hash": "308d81a885618e14ea7d105f7acc8ebedb84f336cd2df333268352401443e9a8",
     "extract_dir": "scoop-tray-0.1.0",
