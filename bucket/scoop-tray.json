@@ -1,11 +1,11 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Systray companion for scoop. Polls for updates every 30min and alerts if there are any.",
     "homepage": "https://github.com/foosel/scoop-tray",
     "license": "MIT",
-    "url": "https://github.com/foosel/scoop-tray/archive/0.1.0.zip",
-    "hash": "308d81a885618e14ea7d105f7acc8ebedb84f336cd2df333268352401443e9a8",
-    "extract_dir": "scoop-tray-0.1.0",
+    "url": "https://github.com/foosel/scoop-tray/archive/0.1.1.zip",
+    "hash": "a50d18418ce0d8d979ee80af374939172262d34096f633523c01f0605b80bfbf",
+    "extract_dir": "scoop-tray-0.1.1",
     "shortcuts": [
         [
             "scoop-tray.bat",
