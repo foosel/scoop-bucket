@@ -2,6 +2,11 @@ on:
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Enter 'force' if you want to force a refresh"
+        required: false
+        default: ''
 
 name: Update bucket
 jobs:
@@ -15,6 +20,7 @@ jobs:
         uses: foosel/scoop-checkver-action@main
         with:
           bucket: bucket
+          force: ${{ github.event.inputs.force }}
       - name: 🚀 Deploy changes
         run: |
           # set git author
