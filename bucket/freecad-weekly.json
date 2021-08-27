@@ -7,7 +7,7 @@
         "64bit": {
             "url": "https://github.com/FreeCAD/FreeCAD-Bundle/releases/download/weekly-builds/FreeCAD_weekly-builds-25429-Win-Conda_vc14.x-x86_64.7z",
             "extract_dir": "FreeCAD_weekly-builds-25429-Win-Conda_vc14.x-x86_64",
-            "hash": "51a2d30e91763d2890d1a39eb061179f1ca6bbb3aa52b9d8530d70e927d681e2"
+            "hash": "0abebca257c4abca8d1796e7b8cc24f678487850a94b9325a9bd904843f66855"
         }
     },
     "bin": [
