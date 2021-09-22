@@ -1,13 +1,13 @@
 {
-    "version": "20210916",
+    "version": "20210922",
     "description": "General-purpose parametric 3D CAD modeler and a building information modeling software with finite-element-method support. Linkstage Stable branch by Realthunder.",
     "homepage": "https://www.freecadweb.org",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/realthunder/FreeCAD_assembly3/releases/download/0.11/FreeCAD-asm3-Stable-Win64-Py3-Qt5-20210916.7z",
-            "extract_dir": "FreeCAD-asm3-Stable-Win64-Py3-Qt5-20210916",
-            "hash": "05df622fb9d62c8e09a07c96755558c3d347841fca13c74b18f644935bd9ad05"
+            "url": "https://github.com/realthunder/FreeCAD_assembly3/releases/download/0.11/FreeCAD-asm3-Stable-Win64-Py3-Qt5-20210922.7z",
+            "extract_dir": "FreeCAD-asm3-Stable-Win64-Py3-Qt5-20210922",
+            "hash": "97b3d417bb8779c453f3ba5c4e060d98ee597153784164ca18327d8a84d3faa5"
         }
     },
     "bin": [
