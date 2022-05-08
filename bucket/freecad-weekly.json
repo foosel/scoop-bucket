@@ -1,13 +1,13 @@
 {
-    "version": "28793",
+    "version": "28810",
     "description": "General-purpose parametric 3D CAD modeler and a building information modeling software with finite-element-method support. Weekly development build.",
     "homepage": "https://www.freecadweb.org",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/FreeCAD/FreeCAD-Bundle/releases/download/weekly-builds/FreeCAD_weekly-builds-28793-Win-Conda_vc14.x-x86_64.7z",
-            "extract_dir": "FreeCAD_weekly-builds-28793-Win-Conda_vc14.x-x86_64",
-            "hash": "9d2463b9a698b06dc2e577da3041874d370f3fb3a47568a6f8f1adcf37152424"
+            "url": "https://github.com/FreeCAD/FreeCAD-Bundle/releases/download/weekly-builds/FreeCAD_weekly-builds-28810-Win-Conda_vc14.x-x86_64.7z",
+            "extract_dir": "FreeCAD_weekly-builds-28810-Win-Conda_vc14.x-x86_64",
+            "hash": "342462d2078f97f89c2d848bc3e3890fb98690df3ef9c0d5c6cfc1300ecb9aeb"
         }
     },
     "bin": [
