@@ -12,6 +12,7 @@ scoop bucket add foosel https://github.com/foosel/scoop-bucket
 
 ## Available Apps
 
+  * `cq-editor`: Latest release of the [CadQuery GUI editor based on PyQT ](https://github.com/CadQuery/CQ-editor)
   * `freecad-linkbranch-daily`: Daily build of [RealThunder's FreeCAD "Linkbranch" fork](https://github.com/realthunder/FreeCAD_assembly3/releases/tag/0.11)
   * `freecad-linkbranch-stable`: Stable build of [RealThunder's FreeCAD "Linkbranch" fork](https://github.com/realthunder/FreeCAD_assembly3/releases/tag/0.11)
   * `freecad-weekly`: Weekly dev build of FreeCAD as published on [FreeCAD/FreeCAD-Bundle](https://github.com/FreeCAD/FreeCAD-Bundle/releases/tag/weekly-builds).
