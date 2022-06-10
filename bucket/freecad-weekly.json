@@ -24,13 +24,13 @@
     ],
     "checkver": {
         "url": "https://github.com/FreeCAD/FreeCAD-Bundle/releases/tag/weekly-builds",
-        "regex": "weekly-builds/FreeCAD_weekly-builds-(?<version>\\d+)-Win-Conda_vc14.x-x86_64.7z"
+        "regex": "weekly-builds/FreeCAD_weekly-builds-(?<version>\\d+)-Win-Conda-x86_64.7z"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/FreeCAD/FreeCAD-Bundle/releases/download/weekly-builds/FreeCAD_weekly-builds-$version-Win-Conda_vc14.x-x86_64.7z",
-                "extract_dir": "FreeCAD_weekly-builds-$version-Win-Conda_vc14.x-x86_64"
+                "url": "https://github.com/FreeCAD/FreeCAD-Bundle/releases/download/weekly-builds/FreeCAD_weekly-builds-$version-Win-Conda-x86_64.7z",
+                "extract_dir": "FreeCAD_weekly-builds-$version-Win-Conda-x86_64.7z"
             }
         }
     }
