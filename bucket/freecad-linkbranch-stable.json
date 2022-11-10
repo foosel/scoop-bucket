@@ -23,8 +23,9 @@
         ]
     ],
     "checkver": {
-        "url": "https://github.com/realthunder/FreeCAD/releases/latest",
-        "regex": "releases/download/(?<tag>\\d+\\.\\d+\\.\\d+-edge)/FreeCAD-asm3-Stable-Win64-Py3-Qt5-(?<version>\\d+).7z"
+        "url": "https://api.github.com/repos/realthunder/FreeCAD/releases",
+        "regex": "releases/download/(?<tag>\\d+\\.\\d+\\.\\d+(-\\d+)?-edge)/FreeCAD-asm3-Stable-Win64-Py3-Qt5-(?<version>\\d+)(?<patch>-\\d)?.7z",
+        "replace": "${version}${patch}"
     },
     "autoupdate": {
         "architecture": {
