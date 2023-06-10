@@ -1,10 +1,10 @@
 {
-    "version": "4.2.7124.42685",
+    "version": "4.2.7120.40854",
     "description": "DPI Aware mouse move across screens",
     "homepage": "https://github.com/mgth/LittleBigMouse",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/mgth/LittleBigMouse/releases/download/4.2.7124.42685/LittleBigMouse_4.2.7124.42685.exe",
-    "hash": "5760b36b506de39cbf8855f3947c57bd742175fed7560023e5d42639ce280d8a",
+    "url": "https://github.com/mgth/LittleBigMouse/releases/download/4.2.7120.40854/LittleBigMouse_4.2.7120.40854.exe",
+    "hash": "02146e493864933a7738a64b8c10303747177bf89b830cbbfc3f2c477026b0fc",
     "installer": {
         
     },
